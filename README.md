@@ -1,4 +1,11 @@
-For running the app using docker you might have installed docker on your system. If you have not it Click Here. After it, you should run this commands to start the container:
+
+# **Crossfit Wod Api**
+
+## How to run the app with docker:
+
+> For running the app using docker you might have installed docker on your system. If you have not it <a href="https://docs.docker.com/engine/install/">Click Here</a>. After it, you should run this commands to start the container: 
+
+```bash
 
 #Create the image with node
 docker build . -t crossfit-wod-api-node
