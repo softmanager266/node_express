@@ -17,3 +17,5 @@ docker run -p 3000:3000 -d crossfit-wod-api-node
 docker ps #Copy the container id
 
 docker logs <container-id>
+
+soy el colaborador
